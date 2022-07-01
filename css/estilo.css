@@ -1,14 +1,28 @@
-#home {
-	background: #32cd32;
+*/{
+	margin: 0;
+	padding: 0;
+}
+
+#menutop{
+	background: #4054B2;
+}
+
+#home .row {
+	background: #4054B2 ;
 	color: white;
+	padding-top: 20px;
+
 }
 
 img{
 	margin-right: 0px;
 } 
 
-#menusuperior{
-	margin-bottom: 200px;
+.menusuperior{
+	margin-bottom: 15px;
+	background: #4054B2;
+	margin-right: 0;
+	margin-left: 0;
 }
 
 header{
@@ -19,8 +33,35 @@ header{
 	width: 100%;
 	z-index: 1;
 }
+	
+
+#section2 h3{
+	color: black;
+}
 
 #section3 .container img{
 	width: 90%;
 	
+}
+
+#section4 .container img{
+	width: 90%;
+	
+}
+
+.card-header{
+	background:  #4054B2;
+}
+
+#nav-principal{
+	color: white;
+}
+
+h3, p{
+	color: white;
+}
+
+footer{
+	text-align: center;
+	background: #4054B2;
 }
