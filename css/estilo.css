@@ -6,3 +6,21 @@
 img{
 	margin-right: 0px;
 } 
+
+#menusuperior{
+	margin-bottom: 200px;
+}
+
+header{
+	position: fixed;
+	margin: 0;
+	top: 0;
+	height: 200px;
+	width: 100%;
+	z-index: 1;
+}
+
+#section3 .container img{
+	width: 90%;
+	
+}
