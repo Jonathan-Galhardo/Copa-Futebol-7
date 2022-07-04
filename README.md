@@ -6,6 +6,6 @@
 
 ##A aplicação é responsiva, se adapta aos mais diversos tamanhos de telas. 
 
-## Confira o Resultado em: 
+##Confira o Resultado em:  https://copa-futebol-7.vercel.app/
 
 ##Teste da interface: 
